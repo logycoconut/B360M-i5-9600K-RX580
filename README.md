@@ -28,8 +28,13 @@ EFI文件维护列表：[黑果小兵的博客](https://blog.daliansky.net/Hacki
 
 ## 配置截图
 
-![关于我的电脑]()
-![开启硬解码]()
+### 关于我的电脑
+
+![关于我的电脑](https://raw.githubusercontent.com/logycoconut/B360M-i5-9600K-RX580/master/images/1.png)
+
+### 开启硬解码
+
+![开启硬解码](https://raw.githubusercontent.com/logycoconut/B360M-i5-9600K-RX580/master/images/2.png)
 
 ## Win10 + 黑苹果分区
 采用GPT分区表，ESP分区要分出三百兆的空间，在用DiskGenius对空盘分区时候，会提示分配多大的ESP分区，Windows选择NTFS格式，macOS选择HFS格式。需要注意点的就是要macOS可以读取NTFS格式，所以说不需要额外分出一个文件交换区
@@ -49,4 +54,4 @@ EFI文件维护列表：[黑果小兵的博客](https://blog.daliansky.net/Hacki
 * [【黑苹果】史上最全，教你在Windows下无损安装MacOS+解决报错|安装前中后一站式教学](https://www.bilibili.com/video/BV1fE411W7ei)
 * [ Win10加MacOS双系统体验完美黑苹果10.14.6保姆级教程 ](https://www.bilibili.com/video/BV1W44112792)
 * [andot的仓库](https://github.com/andot/MSI-B360M-MORTAR-IMACPRO-EFI)
-
+* [EFI文件配置](https://blog.csdn.net/Su_Yi/article/details/93773558)
