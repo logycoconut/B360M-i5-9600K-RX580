@@ -2,9 +2,12 @@
 
 微星B360M迫击炮 i5-9600K RX580 macOS 10.15.5 Hackintosh 黑苹果驱动CLOVER
 
-Github项目下载：https://github.com/logycoconut/B360M-i5-9600K-RX580/blob/master/README.md
-文章地址：
+Github项目下载：[https://github.com/logycoconut/B360M-i5-9600K-RX580/blob/master/README.md](https://github.com/logycoconut/B360M-i5-9600K-RX580/blob/master/README.md)
+
+文章地址：[https://logycoco.xyz/2020/012_hackintoshinstall/](https://logycoco.xyz/2020/012_hackintoshinstall/)
+
 镜像地址：macOS Catalina 10.15.5 [黑果小兵的镜像](https://blog.daliansky.net/macOS-Catalina-10.15.5-19F96-Release-version-with-Clover-5118-original-image-Double-EFI-Version-UEFI-and-MBR.html#more)
+
 EFI文件维护列表：[黑果小兵的博客](https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html)
 
 ## 先介绍配置
