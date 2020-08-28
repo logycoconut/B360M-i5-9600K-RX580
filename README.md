@@ -17,7 +17,7 @@ EFI文件维护列表：[黑果小兵的博客](https://blog.daliansky.net/Hacki
 | CPU  | i5-9600K | 1579.00 |[京东](https://item.jd.com/100000634419.html)  |
 | 主板 | 微星B360 MORTAR | 528.98 | [京东](https://item.jd.com/6833426.html#crumb-wrap) |
 | 显卡 | 蓝宝石RX580 2304SP 8GB 白金版 | 773.00 | [淘宝二手](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.92b72e8d3PQbE7&id=591402176938&_u=82ehsl2icd55) |
-| 内存条 | 阿斯加特 8GB 2666频率 DDR4 洛极灰 * 2 | 367.98 | [京东](https://item.jd.com/3180109.html#crumb-wrap) |
+| 内存条 | 阿斯加特 8GB 2666频率 DDR4 洛极灰 * 2 | 367.98 | [京东](https://item.jd.com/100003374700.html) |
 | 硬盘 | 西部数据 SN550 1TGB | 749.00 | 拼多多 |
 | 电源 | 海韵GM550 金牌半模 | 448.98 | [京东](https://item.jd.com/100004223051.html#crumb-wrap) |
 | 散热 | 玄冰400 雪豹版 | 108.63 | [淘宝](https://detail.tmall.com/item.htm?id=14756775238&ali_refid=a3_430583_1006:1103537345:N:a6nKlWOYGMyBOGHXCpULmp5sn4LFJtgd:9d1b765dee2b408569b35a29a5a09f08&ali_trackid=1_9d1b765dee2b408569b35a29a5a09f08&spm=a230r.1.14.1&skuId=4309658964583) |
