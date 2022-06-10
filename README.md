@@ -1,16 +1,22 @@
 # B360M-i5-9600K-RX580
 
-微星B360M迫击炮 i5-9600K RX580 macOS 10.15.5 Hackintosh 黑苹果驱动CLOVER
+微星B360M迫击炮 i5-9600K RX580 macOS 12.4 Hackintosh 黑苹果驱动CLOVER
 
 Github项目下载：[https://github.com/logycoconut/B360M-i5-9600K-RX580/blob/master/README.md](https://github.com/logycoconut/B360M-i5-9600K-RX580/blob/master/README.md)
-
-文章地址：[https://logycoco.xyz/2020/012_hackintoshinstall/](https://logycoco.xyz/2020/012_hackintoshinstall/)
 
 镜像地址：macOS Catalina 10.15.5 [黑果小兵的镜像](https://blog.daliansky.net/macOS-Catalina-10.15.5-19F96-Release-version-with-Clover-5118-original-image-Double-EFI-Version-UEFI-and-MBR.html#more)
 
 EFI文件维护列表：[黑果小兵的博客](https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html)
+## 更新日志
 
-## 先介绍配置
+### 2022-06-10
+
+- 升级至Monterey 12.4
+- 采用GeQ1an大佬的OC配置，原系统直接升级到最新版即可
+### 2021-11-07
+
+- 升级至Big Sur 11.6
+## 配置介绍
 
 | 组件 |   名称    |      价格      |      链接      |
 | :--: | :-------: | :------------: | :------------: |
@@ -65,15 +71,10 @@ EFI文件维护列表：[黑果小兵的博客](https://blog.daliansky.net/Hacki
 
 关闭BIOS中的 `SETTINGS \ 高级 \ 唤醒事件设置 \ USB设备从S3/S4/S5唤醒`即可解决
 
-## 更新日志
-
-### 2021-11-07
-
-- 升级至Big Sur 11.6
-
 ## 参考链接
 
 * [【黑苹果】史上最全，教你在Windows下无损安装MacOS+解决报错|安装前中后一站式教学](https://www.bilibili.com/video/BV1fE411W7ei)
 * [ Win10加MacOS双系统体验完美黑苹果10.14.6保姆级教程 ](https://www.bilibili.com/video/BV1W44112792)
 * [andot的仓库](https://github.com/andot/MSI-B360M-MORTAR-IMACPRO-EFI)
 * [EFI文件配置](https://blog.csdn.net/Su_Yi/article/details/93773558)
+* [GeQ1an的仓库](https://github.com/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI)
